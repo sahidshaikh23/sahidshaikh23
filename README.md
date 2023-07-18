@@ -8,7 +8,24 @@
 
 
 </p>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="center"> 
+<h2 align="center">A little more about me... </h2>
 
+```javascript
+const sahid = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "HTML", "CSS", "C"],
+    askMeAbout: ["web dev"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: ["MongoDB"],
+        
+    },
+    architecture: ["Progressive web applications"],
+};
+```
 
 
 <h3 align="center">Connect with me:</h3>
