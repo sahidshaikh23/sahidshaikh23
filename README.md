@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahid Shaikh</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
-<img align="right" scr="![image](https://github.com/sahidshaikh23/sahidshaikh23/assets/122199801/b62b70f6-4b09-4461-8223-7e8161941dab)
-" alt="coding" width="400">
+<img align="right" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FKashishjain04&psig=AOvVaw0NxuA4SrO605q1NVojWI0M&ust=1689743141628000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDJwJm9l4ADFQAAAAAdAAAAABAE" alt="coding" width="400">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidshaikh23&label=Profile%20views&color=0e75b6&style=flat" alt="sahidshaikh23" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahidshaikh23" alt="sahidshaikh23" /></a> </p>
 
