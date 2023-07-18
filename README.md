@@ -1,29 +1,23 @@
-<!-- <p align="center">
-  <img width="90%" src="https://user-images.githubusercontent.com/55389276/135845617-f6289b31-8c02-4fe9-aa79-ab9a7514ea1b.gif" alt="intro" />
-</p> -->
+
 
 <h1 align="center">Hi 👋, I'm Sahid Shaikh</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
 <p align="center">
   <img alt="anim" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-<!--   <img src="https://user-images.githubusercontent.com/55389276/121788595-0f0a8480-cbec-11eb-9917-a10455d8a85d.gif" /> -->
-<!--   <img src="https://user-images.githubusercontent.com/55389276/140866794-c41f5fb4-2b0a-41ab-8ed3-cab45b91dbd1.gif" /> -->
+
 
 </p>
 
-<!-- - 👨🏻‍💻 Currently working on **MERN, Firebase** -->
 
-<!-- - 🌱 I’m currently learning **React Native** -->
-
-<!-- - 📫 Mail me at **jainabhishek7204@gmail.com** -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
-    <a href="https://www.linkedin.com/in/sahid-shaikh-859616249/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
-    <a href="mailto:sahidshaikh23042003@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/EMail-005F73?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="30" /></a>
+   
+ 
   <a href="https://www.instagram.com/sahidsha.ikh/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ig" height="30" /></a>
-
+ <a href="https://www.linkedin.com/in/sahid-shaikh-859616249/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" /></a>
+    <a href="mailto:sahidshaikh23042003@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/EMail-005F73?style=for-the-badge&logo=gmail&logoColor=white" alt="portfolio" height="30" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
