@@ -2,7 +2,11 @@
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 👋, I'm Sahid Shaikh<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h2 align="center">A passionate full stack web developer.</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidshaikh23&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidshaikh23&label=Profile%20views&color=0e75b6&style=flat" alt="sahidshaikh23" /> </p>
+
+
+
+
 <p align="center">
   <img alt="anim" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
