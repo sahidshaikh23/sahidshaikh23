@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi 👋, I'm Sahid Shaikh<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<h2 align="center">A passionate full stack web developer.</h2>
+<h2 align="center">A passionate full stack web developer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahidshaikh23&label=Profile%20views&color=0e75b6&style=flat" alt="sahidshaikh23" /> </p>
 
 
