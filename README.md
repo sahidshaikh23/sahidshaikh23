@@ -17,8 +17,8 @@
 ```javascript
 const sahid = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "C"],
-    askMeAbout: ["web dev"],
+    code: ["Javascript", "HTML", "CSS"],
+    askMeAbout: ["Web Development"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
@@ -26,7 +26,6 @@ const sahid = {
         databases: ["MongoDB"],
         
     },
-    architecture: ["Progressive web applications"],
 };
 ```
 
