@@ -46,10 +46,8 @@ const Sahid = {
 
 ---
 <p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahidshaikh23&layout=compact&theme=border_radius=10" alt="top-langs" />   <br>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=sahidshaikh23&show_icons=true&theme=border_radius=10" alt="github-stats" />  <br>
-    <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahidshaikh23&theme=border_radius=10" alt="streak" />  
-    <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahidshaikh23&theme=border_radius=10" alt="streak" />  <br>
+     <br>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=sahidshaikh23&show_icons=true&theme=border_radius=10" alt="github-stats" />  
      <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=sahidshaikh23&theme=border_radius=10" alt="streak" />
 </p>
 
