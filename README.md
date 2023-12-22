@@ -16,14 +16,17 @@
 
 ```javascript
 const Sahid = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS"],
-    askMeAbout: ["Web Development"],
-    technologies: {
-        backEnd: {
+    Pronouns: "He" | "Him",
+    Code: ["Javascript", "HTML", "CSS"],
+    askMeAbout: ["Web Development","MERN Stack","Full Stack Developer"],
+    Technologies: {
+        Front-End : {
+            js:["React JS","Next JS"]
+        },
+        BackEnd: {
             js: ["Node", "Express"],
         },
-        databases: ["MongoDB"],
+        Databases: ["MongoDB"],
         
     },
 };
