@@ -23,7 +23,7 @@ const Sahid = {
         Front-End : {
             js:["React JS","Next JS"]
         },
-        BackEnd: {
+        Back-End: {
             js: ["Node", "Express"],
         },
         Databases: ["MongoDB"],
